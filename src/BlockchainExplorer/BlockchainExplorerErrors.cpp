@@ -9,6 +9,6 @@ namespace error {
 
 BlockchainExplorerErrorCategory BlockchainExplorerErrorCategory::INSTANCE;
 
-} //namespace error
+} //namespace err
 } //namespace CryptoNote
 
