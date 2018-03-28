@@ -72,7 +72,7 @@ private:
   std::future<std::error_code> future;
 };
 
-} //namespace
+} //namespac
 
 namespace CryptoNote {
 
