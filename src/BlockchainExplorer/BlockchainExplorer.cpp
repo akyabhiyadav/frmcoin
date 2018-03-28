@@ -29,7 +29,7 @@ private:
   BlockchainExplorer::AsyncContextCounter& counter;
 };
 
-class NodeRequest {
+class NodeRequest{
 public:
 
   NodeRequest(const std::function<void(const INode::Callback&)>& request) : requestFunc(request) {}
